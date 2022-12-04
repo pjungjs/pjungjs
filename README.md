@@ -1,7 +1,6 @@
 # Hello, I’m Jinseok!
 
 I’m on my way to be a Full-Stack Developer through the Pursuit Program.
-Watch me through this interesting life journey, because by next year I’ll be in different places!
 
 - 📚 I’m currently studying to be a Full-Stack developer at Pursuit course!
 - 🌱 Learning HTML, CSS, JavaScript, Node, and more to come.
